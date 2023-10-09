@@ -39,6 +39,7 @@ const CartItem = (props) => {
           <button onClick={addItemHandler}>+</button>
         </div>
       </div>
+      <div></div>
     </li>
   );
 };
